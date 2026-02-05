@@ -1,9 +1,10 @@
 /*******
 COLOR CHEAT SHEET
-
-
-
-
+004e89-blue
+52b69a-green
+415a77-deepsea
+386641-green
+5a189a-purple
 *****/
 
 
@@ -11,3 +12,9 @@ COLOR CHEAT SHEET
 /************************/
 /******** FONTS *********/
 /************************/
+body, p, div{
+    font-family: "Playpen Sans", cursive;
+}
+h1, h2, h3, h4, h5 ,h6{
+    font-family: "Bungee", sans-serif;
+}
